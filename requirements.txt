@@ -1,0 +1,2 @@
+selenium
+cryptography=35.0
